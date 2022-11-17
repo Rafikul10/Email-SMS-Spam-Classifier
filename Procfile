@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run email_cls_app.py
