@@ -1,0 +1,6 @@
+streamlit
+nltk
+scikit-learn==1.0.2
+extra-streamlit-components
+streamlit-lottie
+streamlit-option-menu
