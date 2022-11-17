@@ -3,6 +3,8 @@
             [![Python 3.10.0](https://img.shields.io/badge/Python-3.10.0-brightgreen)](https://www.python.org/downloads/release/python-3100/) 
              [![Streamlit 1.14.0](https://img.shields.io/badge/Streamlit%20-1.14.0-Ff0000)](https://docs.streamlit.io/) 
              [![Cloud Platform](https://img.shields.io/badge/CloudPlatform-Heroku-9cf)](https://www.heroku.com/managed-data-services)
+  
+Email communication has become crucial in today’s world. Email spam is a kind of unsolicited messages sent in bulk by email. A common terminology to describe an email as not spam is “Ham”, meaning an email is either Ham or Spam. Classify here if a message is Spam or not.
              
 
 **Dependencies :**
